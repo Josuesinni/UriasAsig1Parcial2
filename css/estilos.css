@@ -1,0 +1,25 @@
+.rg{
+    width: 450px;
+    height: 140px;
+}
+.banner-rg{
+    padding-top: 150px; 
+    position: relative; 
+    z-index: 2; 
+    background-color: rgba(255, 255, 255, 0.4);
+    height: 140px;
+    width: 72%;
+    padding-left: 14%;
+    padding-right: 14%;
+    padding-bottom: 40px;
+}
+.contenido-rg{
+    position: relative; 
+    z-index: 2; 
+    width: 60%;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding-bottom: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
